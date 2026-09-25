@@ -1,3 +1,5 @@
+> **This repository is a copy of a project originally created by Madhav Meesala** (originally published as `advanced-agentic-rag`), who is credited as the developer in this README. It has no license file, so all rights remain with the original author. It is kept here for study and reference. All credit for the code and documentation belongs to the original author; it is not original work of this repository's owner.
+
 # Advanced Agentic RAG System
 
 A powerful, multi-agent Retrieval-Augmented Generation (RAG) application built with Streamlit, LangChain, and Groq LLMs. This project demonstrates a modular, self-correcting workflow for answering user queries using both internal knowledge sources and real-time web search, with built-in fact-checking and safety mechanisms.
